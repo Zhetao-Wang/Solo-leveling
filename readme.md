@@ -17,3 +17,4 @@
 今日还看了一集播客，收获颇丰，是wenjiayi的采访，打破了很多信息差，在这里安利一下
 【翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4】https://www.bilibili.com/video/BV1darmBcE4A?vd_source=215316e3d363a5c93344fce986a00245
 
+学习了workflow是什么，大大提高了工作效率
