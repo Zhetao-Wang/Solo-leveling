@@ -18,3 +18,5 @@
 【翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4】https://www.bilibili.com/video/BV1darmBcE4A?vd_source=215316e3d363a5c93344fce986a00245
 
 学习了workflow是什么，大大提高了工作效率
+
+我现在写代码还是用vscode内置ai，但是不是基于gemini等比较先进的，所以有时候还得靠外部。打算过两天尝试一下cursor...
