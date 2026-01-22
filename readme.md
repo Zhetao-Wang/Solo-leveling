@@ -1,0 +1,11 @@
+这是我的个人一路帖
+
+我会在这里记录我的各种学习历程
+
+2026.1.22
+
+最近放寒假了，准备用python 刷一点算法题
+链接 https://github.com/Zhetao-Wang/Leetcode-Exercises
+
+今日还看了一集播客，收获颇丰，是wenjiayi的采访，打破了很多信息差，在这里安利一下
+【翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4】https://www.bilibili.com/video/BV1darmBcE4A?vd_source=215316e3d363a5c93344fce986a00245
